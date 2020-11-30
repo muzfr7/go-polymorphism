@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/muzfr7/polymorphism/living"
+	"github.com/muzfr7/polymorphism/app/living"
 )
 
 func main() {
